@@ -1,0 +1,156 @@
+body {
+    background-color: #c2c5d6;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #444;
+}
+
+#hme {
+    width: 960px;
+    margin: auto;
+    background-color: white;
+    box-shadow: 1% 1% 1% 1% black;
+}
+
+nav {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #602E8B;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #000;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+
+    text-align: left;
+    background-color: white;
+}
+
+nav li {
+    margin: 2px;
+    padding: 5px;
+    display: inline;
+
+}
+
+#res {
+    padding: 2% 0p% 2%x 0px;
+    background-color: white;
+    text-align: center;
+    color: #959bd1
+}
+
+#tlj {
+    color: #602E8B;
+}
+
+section {
+    padding: 0% 5%;
+    margin: 0% 0% 1% 1%;
+}
+
+aside {
+    float: right;
+    width: 30%;
+    margin: 0% 3% 2% 4%;
+}
+
+#plq {
+    clear: both;
+}
+
+#hkt {
+    clear: both;
+}
+
+#lwe {
+    clear: both;
+}
+
+#h31 {
+    color: #602E8B;
+}
+
+p#swlq {
+    font-weight: bold;
+}
+
+#hmer {
+    width: 960px;
+    background-color: white;
+    margin: auto;
+    margin-top: 10%;
+}
+
+
+footer {
+    background-color: #602E8B;
+    color: white;
+    width: 96%;
+    padding: 2%;
+    clear: both;
+}
+
+#rs1 {
+    background-image: url(../images/table-setting_485913447.jpeg);
+    background-repeat: no-repeat;
+    box-shadow: 1% 1% 1% 1%;
+    vertical-align: middle;
+    background-color: white;
+
+}
+
+ul.menu {
+    list-style-type: decimal;
+}
+
+#ul2rs {
+    text-align: center;
+    color: #959bd1;
+    text-decoration-color: black;
+    text-align: left;
+}
+
+#h1rs {
+    color: #602E8B;
+}
+
+#homebody {
+    width: 100%;
+}
+
+#mae {
+    color: #602E8B;
+}
+
+#h3me {
+    font-weight: normal;
+    list-style-type: decimal;
+    width: 70%;
+}
+
+#h3rs {
+    margin: 30px;
+}
+
+.nh3 {
+    color: #602E8B;
+    margin-top: 10px;
+}
+
+#h1c {
+    color: #602E8B;
+}
+
+#h3ct {
+    padding: 10px 10px 10px 0px;
+    background-color: white;
+    margin: 0px 80px 10px 80px;
+    color: #959bd1
